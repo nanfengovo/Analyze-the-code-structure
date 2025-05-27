@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ABP+Vue+WPF+Docker/ABP/创建ABP项目.md",
+                "file": "ABP+Vue+WPF+Docker/Docker/Docker For Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "创建ABP项目"
+              "title": "Docker For Windows"
             }
           }
         ],
@@ -191,14 +191,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "2212018bb61ab1b1",
   "lastOpenFiles": [
-    "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/修改数据库连接字符串.md",
     "ABP+Vue+WPF+Docker/ABP/创建ABP项目.md",
+    "ABP+Vue+WPF+Docker/Docker/Docker For Windows.md",
+    "ABP+Vue+WPF+Docker/Docker/未命名",
+    "ABP+Vue+WPF+Docker/Docker",
+    "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/修改数据库连接字符串.md",
     "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/attachments/09EF227B.png",
     "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/attachments",
     "标站--澄西代码解析/后端/1-2 单步调试-粗定位.md",
