@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ABP+Vue+WPF+Docker/Docker/Docker For Windows.md",
+                "file": "标站--澄西代码解析/后端/1-1代码架构的理解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker For Windows"
+              "title": "1-1代码架构的理解"
             }
           }
         ],
@@ -196,20 +196,20 @@
   },
   "active": "2212018bb61ab1b1",
   "lastOpenFiles": [
+    "标站--澄西代码解析/后端/1-2 单步调试-粗定位.md",
     "ABP+Vue+WPF+Docker/ABP/创建ABP项目.md",
+    "标站--澄西代码解析/后端/1-1代码架构的理解.md",
+    "标站--澄西代码解析/后端/图片/Pasted image 20250526111139.png",
+    "标站--澄西代码解析/后端/图片/Pasted image 20250526111122.png",
     "ABP+Vue+WPF+Docker/Docker/Docker For Windows.md",
+    "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/修改数据库连接字符串.md",
     "ABP+Vue+WPF+Docker/Docker/未命名",
     "ABP+Vue+WPF+Docker/Docker",
-    "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/修改数据库连接字符串.md",
     "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/attachments/09EF227B.png",
     "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/attachments",
-    "标站--澄西代码解析/后端/1-2 单步调试-粗定位.md",
     "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)",
     "ABP+Vue+WPF+Docker/ABP",
     "ABP+Vue+WPF+Docker",
-    "标站--澄西代码解析/后端/1-1代码架构的理解.md",
-    "标站--澄西代码解析/后端/图片/Pasted image 20250526111122.png",
-    "标站--澄西代码解析/后端/图片/Pasted image 20250526111139.png",
     "标站--澄西代码解析/后端/图片",
     "标站--澄西代码解析/后端/1-2 单步调试-粗定位",
     "标站--澄西代码解析/后端",
