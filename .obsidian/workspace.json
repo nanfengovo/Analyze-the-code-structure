@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c04db6607bd7fc55",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "标站--澄西代码解析/后端/图片/Pasted image 20250526111122.png"
+                "file": "标站--澄西代码解析/后端/生产执行/自动流程-生产执行.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250526111122"
+              "icon": "lucide-file",
+              "title": "自动流程-生产执行"
             }
           },
           {
-            "id": "3e4f566abf77f2d4",
+            "id": "fc2fe7c6aab97142",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "diagram-edit",
               "state": {
-                "file": "标站--澄西代码解析/后端/图片/Pasted image 20250526111139.png"
+                "file": "标站--澄西代码解析/后端/生产执行/Untitled Diagram.svg"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250526111139"
+              "icon": "lucide-file",
+              "title": "Untitled Diagram.svg"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,23 +180,22 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "cbd0c8e30dc5f25e",
+  "active": "2212018bb61ab1b1",
   "lastOpenFiles": [
-    "标站--澄西代码解析/后端/生产执行/自动流程-生产执行.md",
     "标站--澄西代码解析/后端/生产执行/Untitled Diagram.svg",
+    "标站--澄西代码解析/后端/生产执行/自动流程-生产执行.md",
+    "ABP+Vue+WPF+Docker/ABP/创建ABP项目.md",
+    "ABP+Vue+WPF+Docker/ABP/ABP Demo.md",
+    "标站--澄西代码解析/后端/图片/Pasted image 20250526111122.png",
+    "标站--澄西代码解析/后端/图片/Pasted image 20250526111139.png",
+    "标站--澄西代码解析/后端/单步调试/1-1代码架构的理解.md",
     "标站--澄西代码解析/后端/生产执行",
     "标站--澄西代码解析/后端/单步调试/1-2 单步调试-粗定位.md",
-    "标站--澄西代码解析/后端/单步调试/1-1代码架构的理解.md",
     "标站--澄西代码解析/后端/单步调试",
-    "标站--澄西代码解析/后端/1-2 单步调试-粗定位.md",
-    "ABP+Vue+WPF+Docker/ABP/创建ABP项目.md",
-    "标站--澄西代码解析/后端/1-1代码架构的理解.md",
-    "标站--澄西代码解析/后端/图片/Pasted image 20250526111139.png",
-    "标站--澄西代码解析/后端/图片/Pasted image 20250526111122.png",
     "ABP+Vue+WPF+Docker/Docker/Docker For Windows.md",
-    "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/修改数据库连接字符串.md",
     "ABP+Vue+WPF+Docker/Docker/未命名",
     "ABP+Vue+WPF+Docker/Docker",
+    "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/修改数据库连接字符串.md",
     "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/attachments/09EF227B.png",
     "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)/attachments",
     "ABP+Vue+WPF+Docker/ABP/DbMigrator(种子数据)",
